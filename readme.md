@@ -2,7 +2,7 @@
 
 Excercises from 'Python Crash Course, 2nd Edition' 
 
-<a href="https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280" title="Hobbit lifestyles">Amazon link</a>
+***<a href="https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280" title="Hobbit lifestyles">Amazon link</a>***
 
 
 
