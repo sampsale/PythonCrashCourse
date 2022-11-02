@@ -1,1 +1,1 @@
-Basic list testing and manipulation
+Basic list introduction and accessing them
