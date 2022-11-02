@@ -1,0 +1,15 @@
+places = ['Los Angeles','Bangkok','Tokyo','Beijing','Mumbai']
+
+print(f'Places I would want to visit: {places}')
+print(f'Places I would want to visit in alphabetical orter: {sorted(places)}')
+print(f'Places I would want to visit in original order: {places}')
+print(f'Places I would want to visit in reverse alphabetical orter: {sorted(places, reverse=True)}')
+print(f'Places I would want to visit in original order: {places}')
+places.reverse()
+print(f'Places I would want to visit in reverse order: {places}')
+places.reverse()
+print(f'Places I would want to visit in original order: {places}')
+places.sort()
+print(f'Places I would want to visit in alphabetical orter: {places}')
+places.sort(reverse=True)
+print(f'Places I would want to visit in reverse alphabetical orter: {places}')
