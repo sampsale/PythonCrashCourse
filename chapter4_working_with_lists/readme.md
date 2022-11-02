@@ -1,0 +1,1 @@
+Basic list manipulation: for loops, tuples, ranges.
