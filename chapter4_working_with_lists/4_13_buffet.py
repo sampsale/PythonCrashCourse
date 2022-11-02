@@ -9,4 +9,3 @@ for food in foods:
 foods = ('nuggets', 'lasagne', 'soup', 'kebab', 'tacos')
 for food in foods:
     print(food)
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
