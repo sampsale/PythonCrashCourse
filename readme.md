@@ -12,12 +12,12 @@ Excercises from 'Python Crash Course, 2nd Edition'
 
 Chapter 1: ***Introduction***
 
-Chapter 2: ***Variables***
+Chapter 2: ***[Variables](chapter2_variables)***
 
-Chapter 3: ***Lists***
+Chapter 3: ***[Lists](chapter3_lists)***
 
-Chapter 4: ***Working with lists***
+Chapter 4: ***[Working with lists](chapter4_working_with_lists)***
 
-Chapter 5: ***[a relative link](chapter6_dictionaries)If statements*** 
+Chapter 5: ***[If statements](chapter5_if_statements)***
 
-Chapter 6: ***Dictionaries***
+Chapter 6: ***[Dictionaries](chapter6_dictionaries)***
