@@ -18,3 +18,6 @@ Chapter 3: ***Lists***
 
 Chapter 4: ***Working with lists***
 
+Chapter 5: ***If statements*** 
+
+Chapter 6: ***Dictionaries***
