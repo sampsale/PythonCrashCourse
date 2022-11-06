@@ -1,1 +1,1 @@
-Basic list introduction and accessing them
+Basic list introduction and accessing them.

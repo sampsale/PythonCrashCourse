@@ -21,3 +21,7 @@ Chapter 4: ***[Working with lists](chapter4_working_with_lists)***
 Chapter 5: ***[If statements](chapter5_if_statements)***
 
 Chapter 6: ***[Dictionaries](chapter6_dictionaries)***
+
+Chapter 7: ***[User input and while loops](chapter7_userinput_and_whilel_loops)***
+
+Chapter 8: ***[Functions](chapter8_functions)***
