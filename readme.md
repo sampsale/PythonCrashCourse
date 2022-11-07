@@ -26,4 +26,5 @@ Chapter 7: ***[User input and while loops](chapter7_userinput_and_while_loops)**
 
 Chapter 8: ***[Functions](chapter8_functions)***
 
-Chapter 8: ***[Classes](chapter9_classes)***
+Chapter 9: ***[Classes](chapter9_classes)***
+
