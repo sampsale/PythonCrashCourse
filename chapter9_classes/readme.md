@@ -1,1 +1,1 @@
-Classes: attributed, methods, calling, inheritance, manipulation, importing, etc.
+Classes and their basics.
