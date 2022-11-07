@@ -12,19 +12,19 @@ Excercises from 'Python Crash Course, 2nd Edition'
 
 Chapter 1: ***Getting started***
 
-Chapter 2: ***[Variables](chapter2_variables)***
+Chapter 2: ***[Variables](chapter02_variables)***
 
-Chapter 3: ***[Lists](chapter3_lists)***
+Chapter 3: ***[Lists](chapter03_lists)***
 
-Chapter 4: ***[Working with lists](chapter4_working_with_lists)***
+Chapter 4: ***[Working with lists](chapter04_working_with_lists)***
 
-Chapter 5: ***[If statements](chapter5_if_statements)***
+Chapter 5: ***[If statements](chapter05_if_statements)***
 
-Chapter 6: ***[Dictionaries](chapter6_dictionaries)***
+Chapter 6: ***[Dictionaries](chapter06_dictionaries)***
 
-Chapter 7: ***[User input and while loops](chapter7_userinput_and_while_loops)***
+Chapter 7: ***[User input and while loops](chapter07_userinput_and_while_loops)***
 
-Chapter 8: ***[Functions](chapter8_functions)***
+Chapter 8: ***[Functions](chapter08_functions)***
 
-Chapter 9: ***[Classes](chapter9_classes)***
+Chapter 9: ***[Classes](chapter09_classes)***
 
