@@ -12,6 +12,8 @@ Excercises from 'Python Crash Course, 2nd Edition'
 
 Chapter 1: ***Introduction***
 
+Introduction to the book 
+
 Chapter 2: ***[Variables](chapter2_variables)***
 
 Chapter 3: ***[Lists](chapter3_lists)***

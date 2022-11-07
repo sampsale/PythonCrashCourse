@@ -18,10 +18,9 @@ while len(winning) < 4:
     counter += 1
     selected = random.choice(possible_items)
     if selected not in my_ballot:
-        selected = random.choice(possible_items)
         winning.clear()
     elif selected not in winning:
         winning.append(selected)
 
 
-print(f"\tIt took {counter} tries for ticket 45, a, f, 6 to win!")
+print(f"\tIt took {counter} tries for ticket {my_ballot} to win!\n")
