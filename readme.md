@@ -10,9 +10,7 @@ Excercises from 'Python Crash Course, 2nd Edition'
 
 "You’ll begin with basic concepts like variables, lists, classes, and loops—with the help of fun skill-strengthening exercises for every topic—then move on to making interactive programs and best practices for testing your code. Later chapters put your new knowledge into play with three cool projects: a 2D Space Invaders-style arcade game, a set of responsive data visualizations you’ll build with Python's handy libraries (Pygame, Matplotlib, Plotly, Django), and a customized web app you can deploy online."
 
-Chapter 1: ***Introduction***
-
-Introduction to the book 
+Chapter 1: ***Getting started***
 
 Chapter 2: ***[Variables](chapter2_variables)***
 
