@@ -28,3 +28,4 @@ Chapter 8: ***[Functions](chapter08_functions)***
 
 Chapter 9: ***[Classes](chapter09_classes)***
 
+Chapter 10: ***[Files and exceptions](chapter10_files_and_exceptions)***

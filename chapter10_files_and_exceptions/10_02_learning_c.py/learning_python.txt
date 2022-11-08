@@ -1,0 +1,4 @@
+In Python you can work with lists.
+You can use Python as a calculator.
+In Python you can create classes and subclasses to them via inheritance.
+In Python you can check if something equals to something.
