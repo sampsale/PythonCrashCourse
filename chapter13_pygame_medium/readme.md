@@ -1,1 +1,1 @@
-More advanced stuff for Pygame: dynamic rendering of objects. Practice for project 1
+More advanced stuff for Pygame: dynamic rendering of objects. Practice for project 1.
