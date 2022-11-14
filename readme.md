@@ -29,3 +29,13 @@ Chapter 8: ***[Functions](chapter08_functions)***
 Chapter 9: ***[Classes](chapter09_classes)***
 
 Chapter 10: ***[Files and exceptions](chapter10_files_and_exceptions)***
+
+Chapter 11: ***[Testing your code](chapter11_testing_your_code)***
+
+Chapter 12: ***[Pygame basics](chapter12_pygame_basics)***
+
+Chapter 13: ***[Pygame medium](chapter13_pygame_medium)***
+
+Chapter 14: ***[Pygame advanced](chapter14_pygame_advanced)***
+
+***PROJECT 1:*** ***[Pygame Alien Invasion project](project01_alien_invasion)***

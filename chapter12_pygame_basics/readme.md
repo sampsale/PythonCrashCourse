@@ -1,0 +1,1 @@
+Basic Pygame stuff; movement, screens, rects, key inputs. Practice for project 1.

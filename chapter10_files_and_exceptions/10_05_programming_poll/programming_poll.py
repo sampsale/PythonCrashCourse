@@ -7,3 +7,4 @@ with open(filename, 'a') as text_file:
         text_file.write(f"{reason}")
         text_file.write(f"\n")
         reason = input('Why do you like programming? (Type "quit" to quit): ')
+ 
