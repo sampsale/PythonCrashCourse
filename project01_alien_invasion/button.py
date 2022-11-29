@@ -16,8 +16,7 @@ class Button():
         # buttons rect 
         self.rect = pygame.Rect(0, 0, self.width, self.height)
         self.rect.center = self.screen_rect.center
-        print(self.screen_rect.width)
-
+        
         # if expert or easy, move 300 pixels
         if location == 'expert':
             self.rect.center = ((self.screen_rect.center[0])+300, (self.screen_rect.center[1]))

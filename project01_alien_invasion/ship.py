@@ -16,11 +16,6 @@ class Ship(Sprite):
         self.rect = self.image.get_rect()
         
         # start at bottom
-
-        #rectXpos = 550
-        #rectYpos = 750
-        #self.rect = pygame.rect.Rect(rectXpos, rectYpos, 50, 50)
-        
         self.rect.midbottom = self.screen_rect.midbottom
 
         # position (convert to float, because rect values only store integers)

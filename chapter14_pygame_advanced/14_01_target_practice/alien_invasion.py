@@ -177,6 +177,7 @@ class TargetPractice:
 
  
     def reset_stats(self):
+        self.settings.alien_speed = 0.2
         self.ship.center_ship()
         self.stats.squares_missed = 0
         self.stats.squares_hit = 0

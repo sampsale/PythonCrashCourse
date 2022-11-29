@@ -16,6 +16,7 @@ class Bullet(Sprite):
         # speed will be float 
         self.y = float(self.rect.y)
 
+
     def update(self):
         # update y based on speed
         self.y -= self.settings.bullet_speed

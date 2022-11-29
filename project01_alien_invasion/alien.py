@@ -12,14 +12,14 @@ class Alien(Sprite):
         # load alien assets and set rect attribute
         self.image = pygame.image.load('images/alien.bmp')
         self.rect = self.image.get_rect() 
-        
-
         # near top left
         self.rect.x = self.rect.width
+
         self.rect.y = self.rect.height
         
         # store position
         self.x = float(self.rect.x) 
+
     
     def update(self):
         # move alien to right initially. direction is dependent on fleet direction (-1 = go left, 1 = go right)

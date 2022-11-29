@@ -11,11 +11,13 @@ class ScoreBoard:
         self.stats = ai_game.stats
         self.ai_game = ai_game
 
-
         # font
         self.text_color = (30,30,30)
         self.font = pygame.font.SysFont(None, 48)
 
+        self.prep_images()
+
+    def prep_images(self):
         # prep score
         self.prep_ships()
         self.prep_score()
@@ -26,7 +28,8 @@ class ScoreBoard:
         # round to closest 10
         rounded_score = round(self.stats.score, -1)
         # turn score into rendered image
-        score_str = "{:_}".format(rounded_score)
+        score_str = "{:,}".format(rounded_score)
+        score_str = 'Score: ' + score_str
         self.score_image = self.font.render(score_str, True, self.text_color, self.settings.bg_color)
         # display the score at the top right
         self.score_rect = self.score_image.get_rect()
@@ -39,7 +42,8 @@ class ScoreBoard:
         # round to closest 10
         high_score = round(high_score, -1)
         # format score so _ is between numbers
-        score_str = "{:_}".format(high_score)
+        score_str = "{:,}".format(high_score)
+        score_str = 'Highscore: ' + score_str
         self.highscore_image = self.font.render(score_str, True, self.text_color, self.settings.bg_color)
         # display the hiscore at the top 
         self.highscore_rect = self.highscore_image.get_rect()
@@ -61,8 +65,9 @@ class ScoreBoard:
     # prep level
     def prep_level(self):
         level_str = str(self.stats.level)
+        level_str = 'Level: ' + level_str
         self.level_image = self.font.render(level_str, True, self.text_color, self.settings.bg_color)
-
+        
         # position below the score
         self.level_rect = self.level_image.get_rect()
         self.level_rect.right = self.score_rect.right
