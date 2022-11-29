@@ -38,4 +38,6 @@ Chapter 13: ***[Pygame medium](chapter13_pygame_medium)***
 
 Chapter 14: ***[Pygame advanced](chapter14_pygame_advanced)***
 
+Chapter 15: ***[Data Visualization basics](chapter15_data_visualization)***
+
 ***PROJECT 1:*** ***[Pygame Alien Invasion project](project01_alien_invasion)***
