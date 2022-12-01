@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from randomwalk import RandomWalk
 
 
-rw = RandomWalk(5000)
+rw = RandomWalk(50000)
 rw.fill_walk()
 
 # use classic sctyle
