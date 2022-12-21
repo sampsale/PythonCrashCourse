@@ -1,5 +1,5 @@
 # data from https://en.ilmatieteenlaitos.fi/download-observations
-# GET RAINFALL AND SNOW DEPTH BY DAY IN HELSINKI 
+# GET RAINFALL AND SNOW DEPTH BY DAY IN HELSINKI
 
 import csv
 import matplotlib.pyplot as plt
@@ -18,8 +18,8 @@ with open(filename) as f:
     for row in reader:
         # try except block just in case there's errors in data
         try:
-            # get the columns we are interested in. '.' stands for 0 in this dataset so account for that
-            # dataset also has -1 for precipation, that I can't really explain so I'll set those as 0 as well
+            # get the columns we are interested in. '-' stands for 0 in this dataset so account for that
+            # dataset also has -1 for precipation sometimes, that I can't really explain so I'll set those as 0 as well
             if row['Precipitation amount (mm)'] == '-' or row['Precipitation amount (mm)'] == '-1':
                 rain = 0
             else:
@@ -30,8 +30,9 @@ with open(filename) as f:
                 # convert CM to MM
                 snow = (float(row['Snow depth (cm)'])) / 10
             # Year, m, d are the columns we want for date
-            date = datetime.strptime(f"{row['Year']}-{row['m']}-{row['d']}", '%Y-%m-%d')
-            
+            date = datetime.strptime(
+                f"{row['Year']}-{row['m']}-{row['d']}", '%Y-%m-%d')
+
         except:
             print('Something went wrong')
         else:
@@ -42,7 +43,7 @@ with open(filename) as f:
 
 # init plot
 plt.style.use('bmh')
-fig, ax = plt.subplots(figsize=(15,8))
+fig, ax = plt.subplots(figsize=(15, 8))
 
 # plot the rainfall and snow depth
 ax.plot(dates, rainfall, c='cyan', label='Rainfall (mm)', alpha=0.8)
