@@ -42,4 +42,6 @@ Chapter 15: ***[Data Visualization basics](chapter15_data_visualization)***
 
 Chapter 16: ***[Downloading JSON- and CSV data online](chapter16_downloading_data)***
 
+Chapter 17: ***[Working with APIs](chapter17_working_with_APIs)***
+
 ***PROJECT 1:*** ***[Pygame Alien Invasion project](project01_alien_invasion)***
