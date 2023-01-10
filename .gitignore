@@ -33,4 +33,4 @@ media
 !chapter18_django/18_02_pizzeria/pizzas/templates/**
 !chapter18_django/18_03_meal_planner/meal_plans/templates/**
 !chapter18_django/18_04_blog/blogs/templates/**
-!chapter18_django/18_04_blog/users/templates/**
+!chapter18_django/18_04_blog//templates/**

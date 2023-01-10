@@ -50,4 +50,4 @@ Chapter 19: ***[User accounts](chapter18+19+20_django)***
 
 ***PROJECT 1:*** ***[Pygame Alien Invasion project](project01_alien_invasion)***
 
-***PROJECT 1:*** ***[Learning Logs Django project](project02_learning_log)***
+***PROJECT 2:*** ***[Learning Logs Django project](project02_learning_log)***
