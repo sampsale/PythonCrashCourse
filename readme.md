@@ -44,4 +44,10 @@ Chapter 16: ***[Downloading JSON- and CSV data online](chapter16_downloading_dat
 
 Chapter 17: ***[Working with APIs](chapter17_working_with_APIs)***
 
+Chapter 18: ***[Django basics](chapter18+19+20_django)***
+
+Chapter 19: ***[User accounts](chapter18+19+20_django)***
+
 ***PROJECT 1:*** ***[Pygame Alien Invasion project](project01_alien_invasion)***
+
+***PROJECT 1:*** ***[Learning Logs Django project](project02_learning_log)***
