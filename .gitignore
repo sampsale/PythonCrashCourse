@@ -3,11 +3,14 @@ __pycache__
 testing
 notes.txt
 *.html 
+
 *.pyc
 
 # Environments 
 .env 
 .venv 
+*.env/
+*_env/
 env/ 
 venv/ 
 ENV/ 
@@ -23,3 +26,11 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 media
+
+
+
+!project02_learning_log/learning_logs/templates/**
+!chapter18_django/18_02_pizzeria/pizzas/templates/**
+!chapter18_django/18_03_meal_planner/meal_plans/templates/**
+!chapter18_django/18_04_blog/blogs/templates/**
+!chapter18_django/18_04_blog/users/templates/**

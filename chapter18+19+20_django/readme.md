@@ -1,0 +1,1 @@
+Testing Django basics for project 2.
